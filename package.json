@@ -1,0 +1,13 @@
+{
+  "name": "assignment-four",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\""
+
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "descriptixon": ""
+}
